@@ -1,0 +1,2 @@
+TIMI_2/Content/Paks/TIMI_2-WindowsNoEditor.pak filter=lfs diff=lfs merge=lfs -text
+Engine/Binaries/Win64/UE4Game.exe filter=lfs diff=lfs merge=lfs -text
